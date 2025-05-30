@@ -2,7 +2,11 @@
   "ver": "1.2.0",
   "importer": "directory",
   "imported": true,
+<<<<<<< HEAD
+  "uuid": "c2ee6d6c-0b08-41c0-b0ab-9b783da5d2d1",
+=======
   "uuid": "63ec71a3-cffb-4726-a29d-41b713e1eea0",
+>>>>>>> origin/A
   "files": [],
   "subMetas": {},
   "userData": {}

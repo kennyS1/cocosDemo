@@ -3,8 +3,12 @@
   "general": {
     "designResolution": {
       "width": 750,
+<<<<<<< HEAD
+      "height": 1334
+=======
       "height": 1334,
       "fitHeight": true
+>>>>>>> origin/A
     }
   }
 }
