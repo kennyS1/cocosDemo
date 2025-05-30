@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "B",
   "uuid": "4f7b4268-c9a8-4a4b-bd6d-9a0f1214a0de",
+=======
+  "name": "A",
+  "uuid": "ef080d97-1599-45d4-8666-0882f2e998f1",
+>>>>>>> origin/A
   "creator": {
     "version": "3.8.6"
   }
